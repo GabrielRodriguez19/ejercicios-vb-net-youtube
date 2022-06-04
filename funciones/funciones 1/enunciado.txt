@@ -1,0 +1,6 @@
+1. Crear una función que devuelva un la suma de dos numeros pasados por parametro.
+
+2. Crear un método que imprima la suma de dos numeros pasados por parametro.
+
+3. Crear un método que imprima el resultado de dos numeros pasado por parametro, 
+pasarle el tipo de operacion por parametro (+ = suma, - = resta, * = multiplicacion, / = division)
