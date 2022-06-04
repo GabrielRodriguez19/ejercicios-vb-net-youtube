@@ -1,0 +1,9 @@
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\bin\Debug\Ejercicios_DDR_Matrices_1.exe
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\bin\Debug\Ejercicios_DDR_Matrices_1.pdb
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\bin\Debug\Ejercicios_DDR_Matrices_1.xml
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\obj\Debug\Ejercicios_DDR_Matrices_1.vbprojResolveAssemblyReference.cache
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\obj\Debug\Ejercicios_DDR_Matrices_1.Resources.resources
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\obj\Debug\Ejercicios_DDR_Matrices_1.vbproj.GenerateResource.Cache
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\obj\Debug\Ejercicios_DDR_Matrices_1.exe
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\obj\Debug\Ejercicios_DDR_Matrices_1.xml
+D:\proyectos visual basic\DiscoDurodeRoer\Matrices\Ejercicios_DDR_Matrices_1\obj\Debug\Ejercicios_DDR_Matrices_1.pdb

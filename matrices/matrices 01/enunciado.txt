@@ -1,0 +1,4 @@
+1. Crear una matriz de 3x3 e insertar valores del 1 al 9.
+
+2. Crear una de matriz de 2 columnas y n filas. Pediremos al usuario el numero de filas
+en la 1 columna pediremos un nombre de usuario y en la 2 columna su password
