@@ -1,0 +1,28 @@
+﻿3. Nos piden que calculemos el salario de un trabajador según unas condiciones.
+
+Clase de trabajador:
+	- Si es obrero cobra 800€ como base.
+	- Si es administrativo cobra 900€ como base.
+	- Si es técnico cobra 1000€ commo base.
+	- Si es profesional cobra 1200€ como base.
+	- Una de estas opciones será la que este marcada por defecto.
+
+Inscrito en un sindicato:
+	- Si esta incrito en un sindicato, le incrementaremos 50€ más.
+	- El no será la opción por defecto.
+
+Años de servicio (serán opciones):
+	- Menos de 5 años, no cobrará ningún incremento. (opción por defecto)
+	- Entre 5 y 10 años, cobrará 100€.
+	- Más de 10 años, cobrará 200€.
+
+Número de hijos:
+	- Este sera un campo NumericUpDown.
+	- Por cada hijo que tenga, se incrementará 100€.
+
+Habrá un botón calcular que nos haga el cálculo y muestre el total 
+y el desglose del salario (las razones por lo que esta cobrando ese salario)
+
+También habrá un botón limpiar que nos reinicie el formulario como en el principio.
+
+Un botón salir para cerrar el formulario.

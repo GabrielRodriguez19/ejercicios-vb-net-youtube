@@ -1,0 +1,5 @@
+﻿1. Colocar un textbox y un boton y que al escribir un nombre y pulsar el boton nos 
+salude.
+
+2. Hace un contador de pulsaciones de boton, cuando pulses el botón indique 
+cuantas veces lo has hecho.
