@@ -1,0 +1,10 @@
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\bin\Debug\Cuenta.exe.config
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\bin\Debug\Cuenta.exe
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\bin\Debug\Cuenta.pdb
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\bin\Debug\Cuenta.xml
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\obj\Debug\Cuenta.vbprojResolveAssemblyReference.cache
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\obj\Debug\Cuenta.Resources.resources
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\obj\Debug\Cuenta.vbproj.GenerateResource.Cache
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\obj\Debug\Cuenta.exe
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\obj\Debug\Cuenta.xml
+D:\proyectos visual basic\DiscoDurodeRoer\POO\POO1\Cuenta\Cuenta\obj\Debug\Cuenta.pdb
