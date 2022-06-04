@@ -1,0 +1,5 @@
+6. Rellenar un array de longitud pedida por el usuario con numeros aleatorios 
+entre 1 y 10.
+
+7. Dado el anterior array, pedir al usuario un numero e indicarle si existe 
+en el array.

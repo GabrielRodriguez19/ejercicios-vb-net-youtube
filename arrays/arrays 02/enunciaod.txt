@@ -1,0 +1,5 @@
+4. Crear un array de 10 posiciones, añadir el valor en cada una de sus posiciones
+y sacar la suma total.
+
+5. Crear un array de 10 posiciones, añadir el valor en cada una de sus posiciones
+y sacar la media.

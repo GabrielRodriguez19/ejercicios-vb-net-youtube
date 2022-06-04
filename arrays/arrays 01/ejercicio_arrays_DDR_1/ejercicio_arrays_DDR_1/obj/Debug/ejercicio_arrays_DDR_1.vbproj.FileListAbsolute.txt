@@ -1,0 +1,9 @@
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\bin\Debug\ejercicio_arrays_DDR_1.exe.config
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\bin\Debug\ejercicio_arrays_DDR_1.exe
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\bin\Debug\ejercicio_arrays_DDR_1.pdb
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\bin\Debug\ejercicio_arrays_DDR_1.xml
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.Resources.resources
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.vbproj.GenerateResource.Cache
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.exe
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.xml
+D:\proyectos visual basic\DiscoDurodeRoer\Arrays\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.pdb

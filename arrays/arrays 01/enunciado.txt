@@ -1,0 +1,7 @@
+1. Crear un array de numeros con la longitud que quieras e introducir en cada elemento 
+el valor su posicion. Mostrar contenido.
+
+2. Crear un array de numeros con la longitud que quieras y pedir al usuario que en cada elemento 
+inserte un numero. Mostrar contenido.
+
+3. Hacer la tabla de un numero pedido por teclado hasta el 10. (5*0, 5*1 ... 5*10). Mostrar contenido.

@@ -1,0 +1,4 @@
+8. Invertir los valores de un array y meterlos en otro array
+
+9. Indicar si un array de numeros es capicua. Es capicua cuando coincide el primero y el ultimo elemento, 
+el segundo y el penultimo y asi sucesivamente.
