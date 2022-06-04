@@ -1,4 +1,4 @@
-3. Haz una clase llamada Password que siga las siguientes condiciones:
+2. Haz una clase llamada Password que siga las siguientes condiciones:
 
 Que tenga los atributos longitud y contraseña . Por defecto, la longitud sera de 8.
 Los constructores serán los siguiente:
