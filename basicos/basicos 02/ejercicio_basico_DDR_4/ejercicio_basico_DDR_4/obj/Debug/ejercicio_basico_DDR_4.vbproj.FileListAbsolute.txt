@@ -1,0 +1,13 @@
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\bin\Debug\ejercicio_basico_DDR_4.exe.config
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\bin\Debug\ejercicio_basico_DDR_4.exe
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\bin\Debug\ejercicio_basico_DDR_4.pdb
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\bin\Debug\ejercicio_basico_DDR_4.xml
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.Resources.resources
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.vbproj.GenerateResource.Cache
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.exe
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.xml
+D:\proyectos visual basic\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.pdb
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\bin\Debug\ejercicio_basico_DDR_4.exe.config
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.exe
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.xml
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_4\ejercicio_basico_DDR_4\obj\Debug\ejercicio_basico_DDR_4.pdb

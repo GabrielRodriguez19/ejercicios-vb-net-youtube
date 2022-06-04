@@ -1,0 +1,9 @@
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\bin\Debug\ejercicio_basico_DDR_7.exe
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\bin\Debug\ejercicio_basico_DDR_7.pdb
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\bin\Debug\ejercicio_basico_DDR_7.xml
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\obj\Debug\ejercicio_basico_DDR_7.vbprojResolveAssemblyReference.cache
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\obj\Debug\ejercicio_basico_DDR_7.Resources.resources
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\obj\Debug\ejercicio_basico_DDR_7.vbproj.GenerateResource.Cache
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\obj\Debug\ejercicio_basico_DDR_7.exe
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\obj\Debug\ejercicio_basico_DDR_7.xml
+D:\proyectos visual basic\DiscoDurodeRoer\Basicos\ejercicio_basico_DDR_7\ejercicio_basico_DDR_7\obj\Debug\ejercicio_basico_DDR_7.pdb

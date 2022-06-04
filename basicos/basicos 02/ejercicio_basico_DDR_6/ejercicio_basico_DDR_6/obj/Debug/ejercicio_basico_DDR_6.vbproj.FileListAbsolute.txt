@@ -1,0 +1,13 @@
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\bin\Debug\ejercicio_basico_DDR_6.exe.config
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\bin\Debug\ejercicio_basico_DDR_6.exe
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\bin\Debug\ejercicio_basico_DDR_6.pdb
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\bin\Debug\ejercicio_basico_DDR_6.xml
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.Resources.resources
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.vbproj.GenerateResource.Cache
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.exe
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.xml
+D:\proyectos visual basic\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.pdb
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\bin\Debug\ejercicio_basico_DDR_6.exe.config
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.exe
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.xml
+D:\proyectos visual basic\DiscoDurodeRoer\ejercicio_basico_DDR_6\ejercicio_basico_DDR_6\obj\Debug\ejercicio_basico_DDR_6.pdb

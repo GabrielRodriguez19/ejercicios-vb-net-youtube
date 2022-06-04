@@ -1,0 +1,6 @@
+4. Pedir dos numeros por teclado e indicar si el primero es divisible entre el segundo.
+
+5. Indicar cual de dos numeros pasados por teclado es mayor o si son iguales.
+
+6. Mostrar los numeros del 1 al 100 (ambos incluidos). Usar un bucle for y un bucle while 
+(usando modules por separado).

@@ -1,0 +1,9 @@
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\bin\Debug\ejercicio_basico_DDR_2.exe.config
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\bin\Debug\ejercicio_basico_DDR_2.exe
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\bin\Debug\ejercicio_basico_DDR_2.pdb
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\bin\Debug\ejercicio_basico_DDR_2.xml
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\obj\Debug\ejercicio_basico_DDR_2.Resources.resources
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\obj\Debug\ejercicio_basico_DDR_2.vbproj.GenerateResource.Cache
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\obj\Debug\ejercicio_basico_DDR_2.exe
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\obj\Debug\ejercicio_basico_DDR_2.xml
+c:\users\fernandos\documents\visual studio 2013\Projects\ejercicio_basico_DDR_2\ejercicio_basico_DDR_2\obj\Debug\ejercicio_basico_DDR_2.pdb

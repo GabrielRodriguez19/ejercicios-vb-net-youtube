@@ -1,0 +1,5 @@
+1. Imprime "Hola mundo" por consola.
+
+2. Pedir el valor de un producto por consola. Calcular el IVA (21%) del producto y su valor final.
+
+3. Calcular el area de una circunferencia. Debemos pedir el radio por teclado.
